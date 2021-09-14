@@ -1,0 +1,11 @@
+{
+  "name": "repro",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "test": "hg -v"
+  },
+  "devDependencies": {
+    "@hg/cli": "1.0.5"
+  }
+}
